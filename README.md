@@ -350,3 +350,6 @@ It demonstrates the integration of embedded firmware, wireless communication and
 ![Rover Electrical Schematic](images/rover-schematic.png)
 
 ---
+### Rover Demonstration
+
+[Watch the BLE-Controlled Rover Demo](videos/rover-demo.mp4)
