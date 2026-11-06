@@ -339,3 +339,14 @@ It demonstrates the integration of embedded firmware, wireless communication and
 **Language:** C++
 
 **Status: Functional prototype — four-wheel BLE-controlled operation.**
+## Project Gallery
+
+### Physical Rover
+
+![BLE-Controlled 4-Wheel Rover](images/rover-actual.jpeg)
+
+### Electrical Schematic
+
+![Rover Electrical Schematic](images/rover-schematic.png)
+
+---
